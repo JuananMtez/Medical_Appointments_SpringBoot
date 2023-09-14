@@ -4,6 +4,7 @@ Simple API for the creation of medical appointments. The frontend side is in [Ci
 
 ### Built With
 ![Java]
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 ## Getting Started
 
